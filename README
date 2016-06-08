@@ -1,0 +1,17 @@
+Written by Michael McAniff 
+
+Find works the same as the unix command 'find'. 
+
+The primaries that are implemented are: 
+
+-amin n
+
+-anewer file
+-maxdepth n
+-empty
+-type c
+-size n
+-name file/direftory
+
+
+Github repository: https://github.com/mMcaniff/Find 
